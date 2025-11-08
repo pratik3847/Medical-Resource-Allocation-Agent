@@ -1,0 +1,17 @@
+hospital_id,hospital_name,address,lat,lon,resource_name,quantity,reserve_min,unit
+H001,Central Hospital,"123 Main St, Springfield, IL",39.7817,-89.6501,oxygen_cylinders,60,20,tanks
+H001,Central Hospital,"123 Main St, Springfield, IL",39.7817,-89.6501,ventilator,8,2,machines
+H001,Central Hospital,"123 Main St, Springfield, IL",39.7817,-89.6501,insulin_vials,120,30,vials
+H001,Central Hospital,"123 Main St, Springfield, IL",39.7817,-89.6501,PPE_kits,500,100,kits
+H002,North Clinic,"456 Oak Ave, Springfield, IL",39.8200,-89.6500,oxygen_cylinders,25,20,tanks
+H002,North Clinic,"456 Oak Ave, Springfield, IL",39.8200,-89.6500,ventilator,1,2,machines
+H002,North Clinic,"456 Oak Ave, Springfield, IL",39.8200,-89.6500,insulin_vials,40,30,vials
+H002,North Clinic,"456 Oak Ave, Springfield, IL",39.8200,-89.6500,PPE_kits,120,100,kits
+H003,East Medical Center,"789 Pine Rd, Springfield, IL",39.7800,-89.6000,oxygen_cylinders,10,20,tanks
+H003,East Medical Center,"789 Pine Rd, Springfield, IL",39.7800,-89.6000,ventilator,0,2,machines
+H003,East Medical Center,"789 Pine Rd, Springfield, IL",39.7800,-89.6000,insulin_vials,80,30,vials
+H003,East Medical Center,"789 Pine Rd, Springfield, IL",39.7800,-89.6000,PPE_kits,90,100,kits
+H004,West Care,"101 Maple Blvd, Springfield, IL",39.7800,-89.7000,oxygen_cylinders,50,20,tanks
+H004,West Care,"101 Maple Blvd, Springfield, IL",39.7800,-89.7000,ventilator,4,2,machines
+H004,West Care,"101 Maple Blvd, Springfield, IL",39.7800,-89.7000,insulin_vials,20,30,vials
+H004,West Care,"101 Maple Blvd, Springfield, IL",39.7800,-89.7000,PPE_kits,200,100,kits

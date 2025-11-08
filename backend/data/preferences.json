@@ -1,0 +1,15 @@
+{
+  "weights": {
+    "distance_weight": 0.49019607843137253,
+    "coverage_weight": 0.411764705882353,
+    "fairness_weight": 0.09803921568627451
+  },
+  "feedback_history": [
+    {
+      "ts": 1762000897.6377945,
+      "accepted": true,
+      "reason": "plan good",
+      "plan_size": 0
+    }
+  ]
+}

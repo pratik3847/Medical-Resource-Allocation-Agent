@@ -1,0 +1,26 @@
+hospital_id,hospital_name,address,lat,lon,resource_name,quantity,reserve_min,unit
+H001,City General Hospital,New York, NY,40.7128,-74.0060,oxygen_cylinders,120,60,count
+H001,City General Hospital,New York, NY,40.7128,-74.0060,ventilators,30,20,count
+H001,City General Hospital,New York, NY,40.7128,-74.0060,ppe_kits,1000,400,count
+H001,City General Hospital,New York, NY,40.7128,-74.0060,insulin_vials,300,150,count
+H001,City General Hospital,New York, NY,40.7128,-74.0060,icu_beds,25,20,count
+H002,Lakeside Medical Center,Chicago, IL,41.8781,-87.6298,oxygen_cylinders,80,50,count
+H002,Lakeside Medical Center,Chicago, IL,41.8781,-87.6298,ventilators,22,18,count
+H002,Lakeside Medical Center,Chicago, IL,41.8781,-87.6298,ppe_kits,600,300,count
+H002,Lakeside Medical Center,Chicago, IL,41.8781,-87.6298,insulin_vials,200,100,count
+H002,Lakeside Medical Center,Chicago, IL,41.8781,-87.6298,icu_beds,18,15,count
+H003,Bayview Health,San Francisco, CA,37.7749,-122.4194,oxygen_cylinders,45,50,count
+H003,Bayview Health,San Francisco, CA,37.7749,-122.4194,ventilators,16,18,count
+H003,Bayview Health,San Francisco, CA,37.7749,-122.4194,ppe_kits,450,350,count
+H003,Bayview Health,San Francisco, CA,37.7749,-122.4194,insulin_vials,140,130,count
+H003,Bayview Health,San Francisco, CA,37.7749,-122.4194,icu_beds,12,14,count
+H004,River Valley Hospital,Austin, TX,30.2672,-97.7431,oxygen_cylinders,160,70,count
+H004,River Valley Hospital,Austin, TX,30.2672,-97.7431,ventilators,28,18,count
+H004,River Valley Hospital,Austin, TX,30.2672,-97.7431,ppe_kits,800,300,count
+H004,River Valley Hospital,Austin, TX,30.2672,-97.7431,insulin_vials,220,120,count
+H004,River Valley Hospital,Austin, TX,30.2672,-97.7431,icu_beds,20,15,count
+H005,Mountainview Clinic,Denver, CO,39.7392,-104.9903,oxygen_cylinders,70,50,count
+H005,Mountainview Clinic,Denver, CO,39.7392,-104.9903,ventilators,14,12,count
+H005,Mountainview Clinic,Denver, CO,39.7392,-104.9903,ppe_kits,500,250,count
+H005,Mountainview Clinic,Denver, CO,39.7392,-104.9903,insulin_vials,160,120,count
+H005,Mountainview Clinic,Denver, CO,39.7392,-104.9903,icu_beds,16,12,count
